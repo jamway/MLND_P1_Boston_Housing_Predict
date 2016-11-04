@@ -1,8 +1,9 @@
-# MLND_projects
-Projects for Udacity Machine Learning Nanodegree
+# Udacity Machine Learning Nanodegree Project 1
+Boston housing price predictor
 
-##Project 1: Boston Housing Price Prediction
-This is the repository for the project completed by myself on my machine learning track.
+## Goal
+Supervised regressional model that predict the price of houses in Boston area
 
-Consider implement unsupervised learning to find key clusters of properties.
-
+## Environement
+Python 2.7
+libraries: numpy, sklearn, pandas
